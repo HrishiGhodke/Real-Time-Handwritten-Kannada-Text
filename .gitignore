@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow only these specific files
+!.gitignore
+!README.md
+!Training.ipynb
+!run_project.ipynb
+!class_mapping.json
+!source_image_map.txt
