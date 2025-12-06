@@ -49,7 +49,9 @@ If you are using Google Colab, most core packages (PyTorch, torchvision, NumPy, 
 
 ## 4. Training the Model (`Training.ipynb`)
 
-1. Download and extract the Chars74K dataset (Kannada subsets) into a folder named `chars74k/` in the project root, or adjust paths in the notebook.
+1. Download and extract the Chars74K dataset (Kannada subsets) from the official page:
+  - https://teodecampos.github.io/chars74k/
+  - Place the extracted Kannada folders into a directory named `chars74k/` in the project root, or adjust paths in the notebook accordingly.
 2. Open `Training.ipynb` (in VS Code, Jupyter, or Colab).
 3. Run the cells in order:
    - Dataset extraction and listing.
